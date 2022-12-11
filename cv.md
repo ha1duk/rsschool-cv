@@ -22,4 +22,12 @@ Adding variables and displaying the result
     var number2 = 20;
     alert(number1+number2);
 ```
+## Expirience
+Not
+
+## Education
+- Moscow University of Ministry of Internal Affairs, Lawyer
+- The Rolling Scopes School, course «JavaScript/Front-end. Stage 0» (in progress)
+## English
+Level A2 - Elementary
 
