@@ -18,16 +18,12 @@ Hello. I am on my way to mastering a new profession of a front-end developer. I 
 ## Code Example
 Adding variables and displaying the result
 ```javascript
-    var number1 = 10;
-    var number2 = 20;
+    var number1 = 2;
+    var number2 = 5;
     alert(number1+number2);
 ```
-## Expirience
-Not
-
 ## Education
 - Moscow University of Ministry of Internal Affairs, Lawyer
 - The Rolling Scopes School, course «JavaScript/Front-end. Stage 0» (in progress)
 ## English
 Level A2 - Elementary
-
