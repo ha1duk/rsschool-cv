@@ -15,11 +15,11 @@ Hello. I am on my way to mastering a new profession of a front-end developer. I 
 - CMS (Wordpress, Drupal)
 - Git & Github
 
-## Code Examples
+## Code Example
 Adding variables and displaying the result
-'''javascript
- var number1 = 10;
-var number2 = 20;
-alert(number1+number2);
-'''
+```javascript
+    var number1 = 10;
+    var number2 = 20;
+    alert(number1+number2);
+```
 
