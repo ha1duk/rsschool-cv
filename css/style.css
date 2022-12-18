@@ -1,11 +1,13 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 .wrapper {
     width: 60%;
     min-width: 400px;
     margin: 0 auto;
+    
 }
 
 .header {
@@ -51,4 +53,16 @@ body {
 .nav ul li a:hover {
     background-color:rgb(162, 39, 179);
     color: rgb(255, 255, 255);
+}
+
+footer {
+    left: 50%;
+}
+
+footer div {
+    display: inline;
+    position:relative;
+    align-items: center;
+    padding-right: 50px;
+    font-size: 20px;
 }
